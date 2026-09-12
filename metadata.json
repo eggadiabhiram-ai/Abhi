@@ -1,0 +1,10 @@
+{
+  "name": "Remix JNTUH R22 Study AI",
+  "description": "Instant JNTUH R22 exam answers: ask questions or scan a photo copy of the question to get complete exam-ready answers with diagrams and technical parameters.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
